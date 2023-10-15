@@ -10,3 +10,7 @@ https://meet.google.com/bio-hmps-bpr
 
 ## MarkDown 語法大全 
 https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book#%E9%80%A3%E7%B5%90
+
+## Python Standard Library
+https://docs.python.org/zh-tw/3/library/index.html
+
