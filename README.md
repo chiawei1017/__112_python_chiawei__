@@ -16,3 +16,12 @@ https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?ty
 ## Python Standard Library
 https://docs.python.org/zh-tw/3/library/index.html
 
+
+
+# __112_python_chiawei__
+10_21日_致理_python_大數據探勘
+
+## [2023_10_21_早上1](https://www.youtube.com/watch?v=mTQnQarFk0c)
+## [2023_10_21_早上2](https://www.youtube.com/watch?v=_D8jTDrcVkk)
+
+## [2023_10_21_下午](https://www.youtube.com/watch?v=xilBp4OW_S4)
