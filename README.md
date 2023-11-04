@@ -27,3 +27,7 @@ https://docs.python.org/zh-tw/3/library/index.html
 
 ## [2023_10_28_早上](https://www.youtube.com/watch?v=OmaI3Lk14xs)
 ## [2023_10_28_下午](https://www.youtube.com/watch?v=bPO4ogiVKmE)
+
+
+## [2023_11_04_早上]
+## [2023_11_04_下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
