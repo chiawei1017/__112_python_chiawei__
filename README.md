@@ -33,3 +33,7 @@ https://docs.python.org/zh-tw/3/library/index.html
 ## [2023_11_04_下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
 
 ## [2023_11_11_早上](https://www.youtube.com/watch?v=zcbPtg75KcE)
+## [2023_11_11_下午](https://www.youtube.com/watch?v=z5NiuQoStRc)
+
+## [2023_11_18_早上](https://www.youtube.com/watch?v=-K0lWABQmG4)
+## [2023_11_18_下午](https://www.youtube.com/watch?v=moTldRcI0ao)
