@@ -43,3 +43,6 @@ https://docs.python.org/zh-tw/3/library/index.html
 
 ## [2023_12_02_早上](https://www.youtube.com/watch?v=vfnO7daQFgw)
 ## [2023_12_02_下午](https://www.youtube.com/watch?v=vNmORGaGJcg)
+
+## [2023_12_09_早上](https://www.youtube.com/watch?v=uX8mXukQTV4)
+## [2023_12_09_下午](https://www.youtube.com/watch?v=tMKWAQEThIk)
